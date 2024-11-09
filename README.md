@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Welcome to my profile! 🌱</h1>
 
 ###
 
-<p align="left">I'm Aadhavan from Bengaluru, Karnataka</p>
+<p align="left">I'm Aadhavan from 📍Bengaluru, Karnataka</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">🔨 I build with 🔧</h2>
 
 ###
 
