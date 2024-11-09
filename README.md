@@ -10,9 +10,11 @@
 
 ###
 
-<p align="left">📚 I'm currently a third-year Computer Science student!<br>🎯 Goals: Learn, grow, and inspire! <br>🎲 Fun fact: Use ```bash
+<p align="left">📚 I'm currently a third-year Computer Science student!<br>🎯 Goals: Learn, grow, and inspire! <br>🎲 Fun fact: </p> 
+Use ```bash
 pip install foobar
-``` to see what people think Devs do all day</p>
+```
+<p>to see what people think Devs do all day</p>
 
 ###
 
